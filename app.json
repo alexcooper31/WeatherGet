@@ -1,0 +1,17 @@
+{
+  "name": "StephTest",
+  "displayName": "StephTest",
+  "expo": {
+    "name": "StephTest",
+    "slug": "StephTest",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
